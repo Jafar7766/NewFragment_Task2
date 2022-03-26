@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewFragment_Task2</string>
+    <string name="welcome_fragment">Welcome Fragment</string>
+</resources>
